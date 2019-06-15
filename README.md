@@ -1,8 +1,3 @@
-This is the private repo..I am adding u in collaborator
-
-public repo link is written on Exam paper
-
-
 
 Simple Resume App With out Login Signup (Authentications)
 
